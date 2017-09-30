@@ -1,0 +1,1 @@
+C:\Users\mfinistauri\Documents\Visual Studio 2017\Projects\LogisticRegression\LogisticRegression\LogisticRegression.csproj;x86
